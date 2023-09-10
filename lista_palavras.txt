@@ -1,0 +1,8 @@
+banana
+laranja
+maça
+mamão
+cachorro
+gato
+rato
+humano
